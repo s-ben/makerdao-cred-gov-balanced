@@ -1,0 +1,16 @@
+{
+  "serverUrl": "https://forum.makerdao.com",
+  "weights": {
+    "categoryWeights": {
+     "5": 1.25,
+     "36": 1 
+    },
+    "defaultCategoryWeight": 1,
+    "defaultTagWeight": 1,
+    "tagWeights": {
+      "signaling": 1.5,
+      "sig-status-accepted": 5,
+      "mips": 3
+    }
+  }
+}
